@@ -2,53 +2,55 @@
 
 Medical Data Analysis
 
-##Abstract
+## Abstract
 
 Dataset of personal medical data of 1,338 patients with a variety of variables that have an affect on the cost of medical services provided. The purpose of the analysis is to analyze the effects of variables on the cost of medical care, e.g. age, gender, region, etc.
 
 ## ERD
 ![image](https://github.com/IsfaquethedataAnalyst/sql-project/assets/100000004/41b47124-d20f-477b-9420-4234ac41320f)
 
-##Variables
+## Variables
 There are a variety of variables that will impact the outcome of this analysis:
 
-Age: age of primary beneficiary
+-Age: age of primary beneficiary
 
-Teen:13-19
+-Teen:13-19
 
-Adult: 20-39
+-Adult: 20-39
 
-Middle Age Adult : 40-59
-Senior Adult :60+
+-Middle Age Adult : 40-59
 
-Sex: insurance contractor gender,
+-Senior Adult :60+
 
-Male
+-Sex: insurance contractor gender,
 
-Female
-Body Mass Index (BMI): Weight to height body mass ratio
+-Male
 
-Underweight: Below 18.5
+-Female
 
-Normal: 18.5 - 24.9
+-Body Mass Index (BMI): Weight to height body mass ratio
 
-Overweight: 25.0 – 29.9
+-Underweight: Below 18.5
 
-Obese: Greater Than or equal to 30.0
+-Normal: 18.5 - 24.9
 
-Children: Number of dependents
+-Overweight: 25.0 – 29.9
 
-Smoker: Smoking
+-Obese: Greater Than or equal to 30.0
 
-Region: Region of domicile of the patient in the United States.
+-Children: Number of dependents
 
-Northeast
+-Smoker: Smoking
 
-Southeast
+-Region: Region of domicile of the patient in the United States.
 
-Southwest
+-Northeast
 
-Northwest
+-Southeast
+
+-Southwest
+
+-Northwest
 
 
 

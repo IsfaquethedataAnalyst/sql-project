@@ -1,5 +1,7 @@
 # Medical Data Analysis
+
 Medical Data Analysis
+
 ##Abstract
 
 Dataset of personal medical data of 1,338 patients with a variety of variables that have an affect on the cost of medical services provided. The purpose of the analysis is to analyze the effects of variables on the cost of medical care, e.g. age, gender, region, etc.
@@ -48,6 +50,22 @@ Southwest
 
 Northwest
 
+
+
 Charges: Individual medical costs billed by health insurance for services provided
 
+##Objective
 
+The objective of the analysis is to analyze the effects of variables on the cost of medical care. The analysis seeks to answer the following questions:
+
+1.Which region has the lowest cost of medical care?
+
+2.Which gender has the highest typical medical charges?
+
+3.Is there correlation between the number of dependents a patient has and medical charges?
+
+4.Is there correlation between age and medical charges?
+
+5.Do individuals with higher BMI have higher medical charges?
+
+6.What is the relationship between smoking and medical charges?
